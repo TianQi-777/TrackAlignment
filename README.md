@@ -36,7 +36,7 @@ make -j2
 **Pangolin GUI:** .  
 <div align=center>  
   
-![](https://github.com/TianQi-777/TrajectoryErrorCalculationAndDrawing/blob/master/images/drawing.png)
+![](https://github.com/TianQi-777/TrackAlignmentWith_ICP/blob/master/Images/compare_.jpg)
 </div>
 
 
