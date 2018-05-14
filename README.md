@@ -10,7 +10,7 @@ In order to better understand this demo, you need to understand some knowledge a
 **Data storage form**   
 Time-g  Translation-x-g  Translation-y-g  Translation-z-g  Quaternion-x-g  Quaternion-y-g  Quaternion-z-g  Quaternion-w-g  
 Time-e  Translation-x-e  Translation-y-e  Translation-z-e  Quaternion-x-e  Quaternion-y-e  Quaternion-z-e  Quaternion-w-e  
-r means ground-truth trajectories  
+g means ground-truth trajectories  
 e means estimated trajectories  
 
 ## Additional Prerequisites for this demo  
