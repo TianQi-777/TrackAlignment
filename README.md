@@ -5,7 +5,7 @@ This is a small demo to align and plot SLAM estimated trajectories and ground-tr
 In order to better understand this demo, you need to understand some knowledge about [ICP](https://en.wikipedia.org/wiki/Iterative_closest_point) and [SVD](https://en.wikipedia.org/wiki/Singular-value_decomposition).
 
 ## Data description  
-**compare.txt**:Record real and estimated trajectories.  
+**compare.txt**:Record ground-truth and estimated trajectories.  
 
 **Data storage form**   
 Time-g  Translation-x-g  Translation-y-g  Translation-z-g  Quaternion-x-g  Quaternion-y-g  Quaternion-z-g  Quaternion-w-g  
